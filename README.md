@@ -1,0 +1,2 @@
+# electron3d
+本程序可以实现快速将web3D应用程序打包为windows桌面程序，方便Web3D开发者用于桌面演示
